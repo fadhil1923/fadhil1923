@@ -18,7 +18,7 @@
 [![Programming Languages](https://skillicons.dev/icons?i=html,css,php&theme=dark)](https://skillicons.dev)
 
 ### Development & DevOps Tools
-[![Development & DevOps Tools](https://skillicons.dev/icons?i=git,github,trello,anydesk,gitlab,&theme=dark)](https://skillicons.dev)
+[![Development & DevOps Tools](https://skillicons.dev/icons?i=git,github,gitlab,&theme=dark)](https://skillicons.dev)
 
 ### Code Editors & IDEs
 [![Code Editors & IDEs](https://skillicons.dev/icons?i=laravel&theme=dark)](https://skillicons.dev)
